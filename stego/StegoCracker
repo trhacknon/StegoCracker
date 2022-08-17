@@ -211,6 +211,7 @@
 
 
 __version__ = "v1.1.5"
+__modder__ = "trhacknon"
 __author__ = "TheKnight"
 __license__ = "Apache 2.0"
 
@@ -247,7 +248,7 @@ def banner():
     """
     banner = pyfiglet.figlet_format("StegoCracker", font="slant")
     print("\033[91m {}\033[00m".format(banner))
-    print("\033[91m {}\033[00m".format("                By TheKnight"))
+    print("\033[91m {}\033[00m".format("                By Trhacknon"))
     print("\033[91m {}\033[00m".format("                " + show_version()))
 
 
