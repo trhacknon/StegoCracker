@@ -56,7 +56,7 @@ First clone the repo and follow
 the given step
 ```
 
-git clone https://github.com/W1LDN16H7/StegoCracker.git 
+git clone https://github.com/trhacknon/StegoCracker.git 
 ```
 Change the dir to Stego
 
@@ -196,4 +196,4 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 # License
 
-License can be read [here](https://github.com/W1LDN16H7/StegoCracker_v1.1.0/blob/master/LICENSE)
+License can be read [here](https://github.com/trhacknon/StegoCracker_v1.1.0/blob/master/LICENSE)
